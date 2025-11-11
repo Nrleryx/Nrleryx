@@ -25,8 +25,7 @@
 ---
 
 ### 📫 How to reach me
-- Discord: **Nrleryx**
-- YouTube: [Nrleryx](https://youtube.com/@Nrleryx)
+- Discord: **nrleryx**
 - Mail: **nrleryx@gmail.com**
 
 ---
