@@ -6,7 +6,7 @@
 ---
 
 ### 🌱 I’m currently learning
-- Advanced c++ / c# 
+- Advanced C++ / C#
 - Spring Boot Microservices  
 - Docker & DevOps
 
