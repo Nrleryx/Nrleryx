@@ -6,7 +6,7 @@
 ---
 
 ### 🌱 I’m currently learning
-- Advanced Spigot / Paper API  
+- Advanced c++ / c# 
 - Spring Boot Microservices  
 - Docker & DevOps
 
