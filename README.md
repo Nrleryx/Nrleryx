@@ -6,7 +6,7 @@ A passionate developer from Türkiye.
 
 ### 👨‍💻 Currently Working On
 - 🛠 I'm currently working on **ArenaNEXT**  
-  https://github.com/Nrleryx/ArenaNEXT
+  https://github.com/Nrleryx/ArenaNEXT-Plugin
 
 ### 🌱 Currently Learning
 - 🌿 I'm currently learning Dart
