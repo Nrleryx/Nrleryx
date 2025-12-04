@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ömer
 
-A passionate developer from Türkiye.
+A developer from Türkiye.
 
 ---
 
