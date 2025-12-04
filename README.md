@@ -9,7 +9,7 @@ A developer from Türkiye.
   https://github.com/Nrleryx/ArenaNEXT-Plugin
 
 ### 🌱 Currently Learning
-- 🌿 I'm currently learning Dart
+- 🌿 I'm currently learning TypeScript
 
 ### 📫 How to reach me
 - ✉️ nrleryx@gmail.com
