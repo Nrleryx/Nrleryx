@@ -1,5 +1,8 @@
 ## 👋 Hi, I'm Nrleryx
 
+![Profile views](https://komarev.com/ghpvc/?username=Nrleryx&color=blue)
+
+
 Java & Minecraft Plugin Developer  
 Active open-source contributor (TownyAdvanced)
 
