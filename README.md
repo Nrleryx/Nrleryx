@@ -1,5 +1,11 @@
 # Hi 👋, I'm Ömer
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nrleryx&label=Profile%20Views&color=brightgreen&style=flat)
+
+---
+
 I m developer from Türkiye.
 
 ---
