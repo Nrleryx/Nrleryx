@@ -31,3 +31,11 @@ I m developer from Türkiye.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nrleryx&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nrleryx&layout=compact&theme=tokyonight" height="165">
+</p>
+
