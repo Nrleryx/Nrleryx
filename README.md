@@ -1,40 +1,40 @@
-# 👋 Hello, I'm Nrleryx !
+<h1 align="center">Hi 👋, I'm Nrleryx</h1>
+<h3 align="center">A passionate developer from Turkey</h3>
 
-### 🚀 Polyglot Software Developer & Open Source Contributor
-
-A self-driven polyglot developer focused on continuous improvement and writing clean, effective code across various domains—from enterprise Java solutions to game engine integrations.
-
-### 🌟 Featured Achievement: Towny Contribution
-
-I successfully contributed to a large and widely-used open-source project like the Towny plugin (Minecraft).
-
-| Project | Contribution Type | Description |
-| :--- | :--- | :--- |
-| **Towny** | **New Command Development** | Developed and merged the critical **`/town nearby`** command (PR #8040), which efficiently finds and sorts the 10 closest towns to a player based on distance. |
-
-This contribution is solid evidence of my ability to deliver real-world optimization and work within large codebases.
-
-### 💻 My Technical Stack
-
-I believe programming languages are just tools, and I can quickly adapt and switch between technologies as needed.
-
-* **Core Languages:**
-    * **Java (Expert):** Enterprise applications, Backend services, High-performance server software (Spigot/Minecraft API).
-    * **C#:** .NET Core, Unity Game Development, Desktop applications.
-* **Other Languages:**
-    * **JavaScript (Node.js/Frontend):** Web applications and API development.
-    * **C++:** Experience with performance-critical algorithms and lower-level system understanding.
-
-### 💡 What I'm Currently Working On
-
-* ArenaNext Plugin.
-
-### 🌐 Let's Connect
-
-| Platform | Link |
-| :--- | :--- |
-| **SpigotMc** | [https://www.spigotmc.org/members/nrleryx.2421014/] |
-| **Email** | [nrleryx@gmail.com] |
-| **builtbybit** | [https://builtbybit.com/members/nrleryxdev.684112/] |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nrleryx&label=Profile%20views&color=0e75b6&style=flat" alt="Nrleryx" />
+</p>
 
 ---
+
+### 👨‍💻 About me
+- 👤 **Real name:** Ömer  
+- 🔭 I’m currently working on **ArenaNext plugin**
+- 🌱 I’m currently learning **Java, C#, C++, JavaScript**
+- 💬 Ask me about **Minecraft (Paper / Spigot) & backend development**
+
+---
+
+### 🌐 Connect with me
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="30" />
+  <b> nrleryx</b>
+</p>
+
+---
+
+### 🛠 Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nrleryx&show_icons=true&theme=tokyonight" />
+</p>
