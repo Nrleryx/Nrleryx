@@ -38,5 +38,3 @@ I believe programming languages are just tools, and I can quickly adapt and swit
 | **builtbybit** | [https://builtbybit.com/members/nrleryxdev.684112/] |
 
 ---
-
-> ⭐️ **Tip:** The best marketing tool for a developer is clean code and finished projects. Please check out my repositories and don't forget to star them! ✨
