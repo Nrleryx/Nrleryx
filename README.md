@@ -34,9 +34,9 @@ I believe programming languages are just tools, and I can quickly adapt and swit
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [Insert Your LinkedIn Profile Link Here] |
-| **Email** | [Insert Your Email Address Here] |
-| **Blog/Dev.to** | [Insert the link to your blog post about your Towny contribution here] |
+| **SpigotMc** | [https://www.spigotmc.org/members/nrleryx.2421014/] |
+| **Email** | [nrleryx@gmail.com] |
+| **builtbybit** | [https://builtbybit.com/members/nrleryxdev.684112/] |
 
 ---
 
