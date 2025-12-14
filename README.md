@@ -16,10 +16,7 @@
 ---
 
 ### 🌐 Connect with me
-<p align="left">
-  [![Discord](https://img.shields.io/badge/Discord-nrleryx-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nrleryx)
-  <b> nrleryx</b>
-</p>
+[![Discord](https://img.shields.io/badge/Discord-nrleryx-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 ---
 
