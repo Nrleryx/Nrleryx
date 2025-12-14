@@ -27,8 +27,7 @@ I believe programming languages are just tools, and I can quickly adapt and swit
 
 ### 💡 What I'm Currently Working On
 
-* Developing a new **Polyglot Command Line Interface (CLI)** tool to demonstrate multi-language functionality.
-* Maintaining active contributions to the open-source community by looking for new PR opportunities in popular libraries.
+* ArenaNext Plugin.
 
 ### 🌐 Let's Connect
 
