@@ -17,7 +17,7 @@
 
 ### 🌐 Connect with me
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="30" />
+  [![Discord](https://img.shields.io/badge/Discord-nrleryx-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nrleryx)
   <b> nrleryx</b>
 </p>
 
