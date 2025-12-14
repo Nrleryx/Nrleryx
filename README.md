@@ -1,17 +1,43 @@
-## 👋 Hi, I'm Nrleryx
+# 👋 Hello, I'm Nrleryx !
 
-![Profile views](https://komarev.com/ghpvc/?username=Nrleryx&color=blue)
+### 🚀 Polyglot Software Developer & Open Source Contributor
 
+A self-driven polyglot developer focused on continuous improvement and writing clean, effective code across various domains—from enterprise Java solutions to game engine integrations.
 
-Java & Minecraft Plugin Developer  
-Active open-source contributor (TownyAdvanced)
+### 🌟 Featured Achievement: Towny Contribution
 
-### 🔧 Core Skills
-- Java (Paper / Spigot API, Towny ecosystem)
-- Minecraft plugin architecture
-- Commands, permissions & configuration systems
+I successfully contributed to a large and widely-used open-source project like the Towny plugin (Minecraft).
 
-### 🛠 Additional Experience
-- C# – desktop tools & basic backend logic
-- C++ – low-level programming & performance-oriented code
-- JavaScript – scripting, Discord bots & small web utilities
+| Project | Contribution Type | Description |
+| :--- | :--- | :--- |
+| **Towny** | **New Command Development** | Developed and merged the critical **`/town nearby`** command (PR #8040), which efficiently finds and sorts the 10 closest towns to a player based on distance. |
+
+This contribution is solid evidence of my ability to deliver real-world optimization and work within large codebases.
+
+### 💻 My Technical Stack
+
+I believe programming languages are just tools, and I can quickly adapt and switch between technologies as needed.
+
+* **Core Languages:**
+    * **Java (Expert):** Enterprise applications, Backend services, High-performance server software (Spigot/Minecraft API).
+    * **C#:** .NET Core, Unity Game Development, Desktop applications.
+* **Other Languages:**
+    * **JavaScript (Node.js/Frontend):** Web applications and API development.
+    * **C++:** Experience with performance-critical algorithms and lower-level system understanding.
+
+### 💡 What I'm Currently Working On
+
+* Developing a new **Polyglot Command Line Interface (CLI)** tool to demonstrate multi-language functionality.
+* Maintaining active contributions to the open-source community by looking for new PR opportunities in popular libraries.
+
+### 🌐 Let's Connect
+
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn** | [Insert Your LinkedIn Profile Link Here] |
+| **Email** | [Insert Your Email Address Here] |
+| **Blog/Dev.to** | [Insert the link to your blog post about your Towny contribution here] |
+
+---
+
+> ⭐️ **Tip:** The best marketing tool for a developer is clean code and finished projects. Please check out my repositories and don't forget to star them! ✨
