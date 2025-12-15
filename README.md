@@ -10,7 +10,7 @@
 ### 👨‍💻 About me
 - 👤 **Real name:** Ömer  
 - 🔭 I’m currently working on **ArenaNext plugin**
-- 🌱 I’m currently learning **Java, C#, C++, JavaScript**
+- 🌱 I’m currently learning **Java script**
 - 💬 Ask me about **Minecraft (Paper / Spigot) & backend development**
 
 ---
